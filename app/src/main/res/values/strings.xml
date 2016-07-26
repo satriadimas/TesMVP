@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesMVP</string>
+    <string name="title_activity_pengurangan">Pengurangan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_penjumlahan">Penjumlahan</string>
+    <string name="title_activity_pembagian">Pembagian</string>
+    <string name="title_activity_perkalian">Perkalian</string>
+</resources>
